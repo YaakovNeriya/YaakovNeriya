@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yaakov 👋
 
-<!--
-**YaakovNeriya/YaakovNeriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **DevOps Engineer** passionate about **Linux**, **Automation**, and building reliable systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently deepening my knowledge in **Linux System Administration** and **Docker**.
+- 💡 I focus on writing efficient scripts using **Python** and **Bash**.
+- 🧐 **Who am I?** A **thorough** and **responsible** person. I believe in paying attention to small details and taking full ownership of my tasks.
+- 🥅 **My Goal:** To become a professional DevOps Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools
+### 🐧 Linux & Infrastructure
+- **Linux** (Command Line, Permissions, File Systems)
+- **Bash Scripting**
+- **Docker** (Basic Containerization)
+
+### 💻 Programming & Version Control
+- **Python** (Automation & Scripting)
+- **Git & GitHub** (Version Control)
